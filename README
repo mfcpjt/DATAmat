@@ -1,2 +1,3 @@
-Dataset		Shuffled
-MNIST_vec_Digits.mat		yes
+Dataset	Shuffled OneHotY #classes
+MNIST_vec_Digits.mat	yes No 10
+medMNISTpneumonia.mat yes No 2
