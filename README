@@ -1,3 +1,10 @@
 Dataset	Shuffled OneHotY #classes
 MNIST_vec_Digits.mat	yes No 10
 medMNISTpneumonia.mat yes No 2
+
+
+References :
+
+med MNIST datasets
+https://zenodo.org/records/10519652
+https://medmnist.com/v2
