@@ -1,3 +1,9 @@
+##Disclaimer##
+
+The data shared here are solely for academic purpose and we make no claims of ownership.
+They are presented in mat format for convenience to work in Matlab.
+
+
 Dataset	Shuffled OneHotY #classes
 MNIST_vec_Digits.mat	yes No 10
 medMNISTpneumonia.mat yes No 2
